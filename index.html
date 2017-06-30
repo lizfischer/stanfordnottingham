@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+      <title>Home</title>
+      <!-- Bootstrap -->
+      <link href="css/bootstrap.min.css" rel="stylesheet">
+
+      <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="js/bootstrap.min.js"></script>
+
+
+      <!-- Leaflet -->
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css"
+            integrity="sha512-wcw6ts8Anuw10Mzh9Ytw4pylW8+NAD4ch3lqm9lzAsTxg0GFeJgoAtxuCLREZSC5lUXdVyo/7yfsqFjQ4S+aKw=="
+            crossorigin=""/>
+      <script src="https://unpkg.com/leaflet@1.1.0/dist/leaflet.js"
+              integrity="sha512-mNqn2Wg7tSToJhvHcqfzLMU6J4mkOImSPTxVZAdo+lcPlk+GhZmYgACEe0x35K7YzW1zJ7XyJV/TT1MrdXvMcA=="
+              crossorigin=""></script>
+      <link rel="stylesheet" href="https://unpkg.com/leaflet-easybutton@2.0.0/src/easy-button.css">
+      <script src="https://unpkg.com/leaflet-easybutton@2.0.0/src/easy-button.js"></script>
+      <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+      <link rel="stylesheet" href="css/leaflet.css">
+      <script src="placeData.js" type="text/javascript"></script>
+
+ </head>
+ <body>
+     <h1>Hello, world!</h1>
+        <div id="wrap">
+            <div id="content"></div>
+            <nav id="map-wrap"><div id="map"></div></nav>
+        </div>
+
+     <!-- init map-->
+    <script>
+        // Make Map
+        var map = L.map('map',{zoomControl:false}).setView([52.353013, -1.433716], 7);
+        var tileURL = 'https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=333d9fd7c2344239a0b93c308e67c9b4';
+        layer = new L.TileLayer(tileURL, {maxZoom: 18, minZoom:5});
+        map.addLayer(layer);
+
+        var isProgramaticZoom = false;
+        map.on('zoomstart', function() {
+            if (!isProgramaticZoom) {homeButton.enable();}
+        });
+        map.on('dragstart', function() {
+            if(!isProgramaticZoom){homeButton.enable();}
+        });
+
+
+        var homeButton = L.easyButton('<i id="homeButton" class="fa fa-home" aria-hidden="true"></i>',flyHome).disable().addTo(map);
+
+        // Add top-level nav markers
+        var markers = {};
+        for (id in places) {
+            var p = places[id];
+            markers[id] = L.marker(p.latlong).bindTooltip(p.name).addTo(map).on('click', onClick).on('hover', onHover);
+            markers[id]._icon.id = id;
+        }
+
+    </script>
+
+ </body>
+</html>
+
