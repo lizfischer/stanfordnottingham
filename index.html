@@ -5,7 +5,8 @@
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-      <title>Home</title>
+      <title>Lost in the Myths of Time</title>
+
       <!-- Bootstrap -->
       <link href="css/bootstrap.min.css" rel="stylesheet">
 
@@ -34,16 +35,115 @@
       <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
 
-      <link rel="stylesheet" href="css/leaflet.css">
+      <link rel="stylesheet" href="css/main.css">
       <script src="placeData.js" type="text/javascript"></script>
 
  </head>
  <body>
-     <h1>Hello, world!</h1>
-        <div id="wrap">
-            <div id="content"></div>
-            <nav id="map-wrap"><div id="map"></div></nav>
+ <!-- Navigation -->
+ <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+     <div class="container topnav">
+         <!-- Brand and toggle get grouped for better mobile display -->
+         <div class="navbar-header">
+             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                 <span class="sr-only">Toggle navigation</span>
+                 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+             </button>
+             <a class="navbar-brand topnav" href="#">Lost in the Myths of Time</a>
+         </div>
+         <!-- Collect the nav links, forms, and other content for toggling -->
+         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+             <ul class="nav navbar-nav navbar-right">
+                 <li>
+                     <a href="#home">Home</a>
+                 </li>
+                 <li>
+                     <a href="#map-anchor">Explore Locations</a>
+                 </li>
+                 <li>
+                     <a href="about.html">About</a>
+                 </li>
+                 <li class="dropdown">
+                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">More
+                         <span class="caret"></span></a>
+                     <ul class="dropdown-menu">
+                         <li><a href="#">Location List</a></li>
+                         <li><a href="#">All Blog Posts</a></li>
+                         <li><a href="acknowledgements.html">Acknowledgements</a></li>
+                     </ul>
+                 </li>
+             </ul>
+         </div>
+         <!-- /.navbar-collapse -->
+     </div>
+     <!-- /.container -->
+ </nav>
+
+ <a class="anchor" name="home"></a>
+ <div class="intro-header">
+     <div class="container">
+         <div class="row">
+             <div class="col-lg-12">
+                 <div class="intro-message">
+                     <h1>Lost in the Myths of Time</h1>
+                     <h3>A short description here</h3>
+                     <hr class="intro-divider">
+                     <ul class="list-inline intro-social-buttons">
+                         <li>
+                             <a href="#map-anchor" class="btn btn-default btn-lg"><i class="fa fa-map-marker fa-fw"></i> <span class="network-name">Explore Places</span></a>
+                         </li>
+                         <li>
+                             <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                         </li>
+                         <li>
+                             <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                         </li>
+                     </ul>
+                 </div>
+             </div>
+         </div>
+     </div>
+ </div>
+
+ <a  name="services"></a>
+    <section>
+        <div class="content-section-a">
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="clearfix"></div>
+                        <h2 class="section-heading">About the seminar</h2>
+                        <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
+
+                        <hr class="section-heading-spacer"><br>
+                </div>
+
+            </div>
+            <!-- /.container -->
+
         </div>
+        </div>
+    </section>
+
+    <a class="anchor" name="map-anchor"></a>
+    <section id="map-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">See where we've been</h2>
+                </div>
+            </div>
+
+        </div>
+            <div id="wrap">
+                <div id="content"></div>
+                <nav id="map-wrap"><div id="map"></div></nav>
+            </div>
+    </section>
 
      <!-- init map-->
     <script>
@@ -53,6 +153,7 @@
         layer = new L.TileLayer(tileURL, {maxZoom: 18, minZoom:5});
         map.addLayer(layer);
 
+        map.scrollWheelZoom.disable();
         var isProgramaticZoom = false;
         map.on('zoomstart', function() {
             if (!isProgramaticZoom) {homeButton.enable();}

@@ -39,7 +39,7 @@ function flyHome() {
 }
 
 var places = {
-    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"sampleBlog.html"},
+    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"sampleDescription.html"},
     "breedon": {name: "Breedon on the Hill", latlong: [52.806069, -1.399813], file:"sampleBlog2.html"},
     "appleby": {name: "Appleby Parva & No Man's Heath", latlong: [52.677361, -1.570809]},
     "lincoln": {name: "Lincoln", latlong: [53.230688, -0.540579]},
