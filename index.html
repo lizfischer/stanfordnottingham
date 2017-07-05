@@ -63,7 +63,7 @@
                      <a href="#map-anchor">Explore Locations</a>
                  </li>
                  <li>
-                     <a href="about.html">About</a>
+                     <a href="#about-anchor">About</a>
                  </li>
                  <li class="dropdown">
                      <a class="dropdown-toggle" data-toggle="dropdown" href="#">More
@@ -81,10 +81,11 @@
      <!-- /.container -->
  </nav>
 
- <a class="anchor" name="home"></a>
+ <!-- Top section -->
+ <a class="anchor" id="home" name="home"></a>
  <div class="intro-header">
-     <div class="container">
-         <div class="row">
+             <div class="container">
+                 <div class="row">
              <div class="col-lg-12">
                  <div class="intro-message">
                      <h1>Lost in the Myths of Time</h1>
@@ -92,14 +93,14 @@
                      <hr class="intro-divider">
                      <ul class="list-inline intro-social-buttons">
                          <li>
+                             <a href="#about-anchor" class="btn btn-default btn-lg"><i class="fa fa-info fa-fw"></i> <span class="network-name">About Seminar</span></a>
+                         </li>
+                         <li>
                              <a href="#map-anchor" class="btn btn-default btn-lg"><i class="fa fa-map-marker fa-fw"></i> <span class="network-name">Explore Places</span></a>
                          </li>
-                         <li>
-                             <a href="https://github.com/IronSummitMedia/startbootstrap" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
-                         </li>
-                         <li>
-                             <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
-                         </li>
+                         <!--<li>
+                             <a href="#" class="btn btn-default btn-lg"><i class="fa fa-graduation-cap fa-fw"></i> <span class="network-name">Historical Context</span></a>
+                         </li>-->
                      </ul>
                  </div>
              </div>
@@ -107,8 +108,9 @@
      </div>
  </div>
 
- <a  name="services"></a>
-    <section>
+ <!-- About section -->
+ <a class="anchor" id="about-anchor" name="about-anchor"></a>
+ <section>
         <div class="content-section-a">
 
             <div class="container">
@@ -116,9 +118,20 @@
                     <div class="col-lg-12">
                         <div class="clearfix"></div>
                         <h2 class="section-heading">About the seminar</h2>
-                        <p class="lead">A special thanks to <a target="_blank" href="http://join.deathtothestockphoto.com/">Death to the Stock Photo</a> for providing the photographs that you see in this template. Visit their website to become a member.</p>
-
-                        <hr class="section-heading-spacer"><br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-8">
+                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere</p>
+                        <a href="about.html" class="more-btn btn btn-primary">Read More</a> <br>
+                    </div>
+                    <div class="col-lg-4">
+                        <img src="img/img.jpg">
+                    </div>
+                </div>
+                <div class="row">
+                   <!-- <a href="about.html" class="more-btn btn btn-primary">Read More</a> <br>-->
+                    <hr class="section-heading-spacer"><br>
                 </div>
 
             </div>
@@ -128,8 +141,9 @@
         </div>
     </section>
 
-    <a class="anchor" name="map-anchor"></a>
-    <section id="map-section">
+ <!-- Places section -->
+ <a class="anchor" id="map-anchor" name="map-anchor"></a>
+ <section id="map-section">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -137,22 +151,39 @@
                     <h2 class="section-heading">See where we've been</h2>
                 </div>
             </div>
-
-        </div>
-            <div id="wrap">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui</p>
+                </div>
+            </div>
+            <div id="row">
                 <div id="content"></div>
                 <nav id="map-wrap"><div id="map"></div></nav>
             </div>
+        </div>
     </section>
 
      <!-- init map-->
     <script>
+        $('a[href^="#"]').on('click',function (e) {
+            e.preventDefault();
+
+            var target = this.hash;
+            var $target = $(target);
+
+            $('html, body').stop().animate({
+                'scrollTop': $target.offset().top
+            }, 900, 'swing', function () {
+                window.location.hash = target;
+            });
+        });
         // Make Map
         var map = L.map('map',{zoomControl:false}).setView([52.353013, -1.433716], 7);
         var tileURL = 'https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=333d9fd7c2344239a0b93c308e67c9b4';
         layer = new L.TileLayer(tileURL, {maxZoom: 18, minZoom:5});
         map.addLayer(layer);
 
+        map.fitBounds([[53.733116,-3.330139],[51.238535,0.635925]])
         map.scrollWheelZoom.disable();
         var isProgramaticZoom = false;
         map.on('zoomstart', function() {

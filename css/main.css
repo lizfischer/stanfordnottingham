@@ -4,52 +4,70 @@ body {
 }
 #map {
     height: calc(100vh - 51px);
-}
-#wrap{
-    display: flex;
-}
+}#map-wrap{
+     /*float:right;*/
 
-#map-wrap{
-    /*float:right;*/
-    flex: 1 ;
-}
-
-#content{
+     height: 100%;
+     flex: 1 ;
+ }#content{
     float:left;
     overflow: auto;
-    height: calc(100vh - 51px);
+    /*height: calc(100vh - 51px);*/
+} #wrap{
+
+    height: 100%;
+    display: flex;
+}#map-section .container {
+  height: calc(100vh - 51px);
+
+  /*width: 85%;*/
+  margin: auto;
 }
+
 a.anchor {
     display: block;
     position: relative;
     top: -51px;
     visibility: hidden;
 }
-#map-section{
-    /*width: 80%;*/
-    margin: auto;
+
+#place-wrapper{
+    /*margin-top: 51px;*/
 }
 
-.placeDescription{
-    margin: 0 5%;
-}
 .easy-button-button{
     width:100px;
 }
 
 .placeDescription{
+    margin: 0 5%;
+}
+
+section, .placeDescription{
     text-align: center;
 }
 .placeDescription > h3 {
     color: #7b7b7b;
 }
-.placeDescription p, .placeDescription h3{
+section p, section h2, .placeDescription p, .placeDescription h3{
     text-align: left;
 }
-.placeDescription .btn {
-    margin-top: 20px;
+section p {
+    /*max-width: 75ch;*/
+    text-align: justify;
 }
-
+section img {
+    height: auto;
+    max-width: 100%;
+}
+.more-btn {
+    align: center;
+    margin: 20px 0;
+}
+.section-heading-spacer {
+    width: 20vw;
+    border-top: 3px solid #e7e7e7;
+}
 
 
 body,
@@ -143,7 +161,7 @@ h6 {
 }
 
 .content-section-a {
-    padding: 50px 0;
+    padding: 50px 0 0 0;
     background-color: #f8f8f8;
 }
 
@@ -156,13 +174,6 @@ h6 {
 .section-heading {
     margin-bottom: 30px;
 }
-
-.section-heading-spacer {
-    float: left;
-    width: 200px;
-    border-top: 3px solid #e7e7e7;
-}
-
 .banner {
     padding: 100px 0;
     color: #f8f8f8;
