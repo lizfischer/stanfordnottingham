@@ -2,6 +2,31 @@ body {
     width: 80%;
     margin: auto;
 }
+#place-wrapper p, #place-wrapper ol,ul,li {
+    font-weight: normal;
+}
+.dropcap p:first-child:first-letter {
+    color: #0a4911;
+    float: left;
+    font-family: Georgia;
+    font-size: 75px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+}
+.byline{
+    font-size: 1.1em;
+    color: #5e5e5e;
+    font-weight: bold;
+}
+
+
+.header-img {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
 #map {
     height: calc(100vh - 51px);
 }#map-wrap{

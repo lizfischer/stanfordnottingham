@@ -1,15 +1,16 @@
 {% extends "base.twig" %}
-
+{% set active_page = "blog" %}
 
 {% block body %}
 
 {{ parent() }}
-
+<h2>Thoughts from {{ meta.place|capitalize }}</h2>
+    <hr>
     {% for page in pages|sort_by("time")|reverse %}
         {% if page.id starts with "blog/" %}
             <div class="post">
                 <h3><a href="../places?{{ page.id }}">{{ page.title }}</a></h3>
-                <p class="date">{{ page.date_formatted }}</p>
+                <p class="author">by {{ page.author }} - {{ page.date_formatted }}</p>
                 <p class="excerpt">{{ page.description }}</p>
             </div>
         {% endif %}

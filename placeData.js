@@ -15,14 +15,15 @@ function loadDoc(file){
 
 function onClick (e) {
     isProgramaticZoom = true;
-    console.log('test');
-    $('#content').width('60%');
-    map.invalidateSize();
-    map.flyTo(e.target.getLatLng(), 14);
     homeButton.enable();
     var id = e.target._icon.id;
-    loadDoc(places[id].file);
-    isProgramaticZoom = false;
+    $('#content').load(places[id].file, function(){
+        $('#content').width('60%');
+        map.invalidateSize();
+        map.flyTo(e.target.getLatLng(), 14);
+        isProgramaticZoom = false;
+    });
+    //loadDoc(places[id].file);
 }
 function onHover(e){
     e.target._openTooltip();
@@ -39,13 +40,18 @@ function flyHome() {
 }
 
 var places = {
-    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"nottingham.html"},
-    "breedon": {name: "Breedon on the Hill", latlong: [52.806069, -1.399813], file:"sampleBlog2.html"},
-    "appleby": {name: "Appleby Parva & No Man's Heath", latlong: [52.677361, -1.570809]},
-    "lincoln": {name: "Lincoln", latlong: [53.230688, -0.540579]},
+    "breedon-saltst": {name: "Breedon on the Hill and Salt Street", latlong: [52.806069, -1.399813], file:"short-desc/breedon-saltst.html"},
+    "brixworth": {name: "Brixworth", latlong: [52.333980, -0.904436], file:"short-desc/brixworth.html"},
+    "cambridge": {name: "Cambridge", latlong: [52.205337, 0.121817],file:"short-desc/cambridge.html"},
+    "ely-peterborough": {name: "Ely and Peterborough", latlong: [52.398661, 0.263779], file:"short-desc/ely-peterborough.html"},
+    "icknield": {name: "Icknield Way", latlong: [51.885465, -0.578812], file:"short-desc/ely-icknield.html"},
+    "lincoln": {name: "Lincoln", latlong: [53.234297, -0.536056], file:"short-desc/lincoln.html"},
+    "london": {name: "London", latlong: [51.529999, -0.127716],file:"short-desc/london.html"},
     "montgomery":{name: "Montgomery", latlong: [52.562790, -3.149331], file:"short-desc/montgomery.html"},
-    "london": {name: "London", latlong: [51.507351, -0.127758]},
-    "cambridge": {name: "Cambridge", latlong: [52.205337, 0.121817]}
+    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"short-desc/nottingham.html"},
+    "offasdyke": {name: "Offa's Dyke", latlong: [52.567373, -3.129205],file:"short-desc/offasdyke.html"},
+    "sherwood": {name: "Sherwood Forest", latlong: [53.202948, -1.064000],file:"short-desc/sherwood.html"},
+    "suttonhoo": {name: "Sutton Hoo", latlong: [52.094451, 1.340796],file:"short-desc/suttonhoo.html"}
 };
 
 /*

@@ -4,6 +4,8 @@
 {% block body %}
 
     <h1>{{ current_page.title }}</h1>
-    {{ parent() }}
-
+    <img src="{{ meta.img }}" class="header-img">
+    <div class="dropcap">
+        {{ parent() }}
+    </div>
 {% endblock %}
