@@ -3,7 +3,7 @@ Title: Montgomery
 Tags: place
 Filters: montgomery
 Template: index
-Place: Montgomery
+Place: montgomery
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15ckTlwiquo" frameborder="0" allowfullscreen></iframe>

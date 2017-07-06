@@ -20,7 +20,7 @@
  * BASIC
  */
  $config['site_title'] = 'Lost in the Myths of Time';              // Site title
- $config['base_url'] = 'localhost:8080/places';                    // Override base URL (e.g. http://example.com)
+ $config['base_url'] = 'http://web.stanford.edu/group/texttechnologies/cgi-bin/stanfordnottingham/places';                    // Override base URL (e.g. http://example.com)
 // $config['rewrite_url'] = null;               // A boolean indicating forced URL rewriting
 
 /*

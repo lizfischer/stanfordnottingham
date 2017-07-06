@@ -8,7 +8,7 @@
     {% for page in pages|sort_by("time")|reverse %}
         {% if page.id starts with "blog/" %}
             <div class="post">
-                <h3><a href="/places?{{ page.id }}">{{ page.title }}</a></h3>
+                <h3><a href="../places?{{ page.id }}">{{ page.title }}</a></h3>
                 <p class="date">{{ page.date_formatted }}</p>
                 <p class="excerpt">{{ page.description }}</p>
             </div>

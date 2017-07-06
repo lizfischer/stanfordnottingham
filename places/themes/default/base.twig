@@ -18,10 +18,10 @@
 
 
     <!-- mine -->
-    <link rel="stylesheet" href="../../../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../../../css/main.css">
-    <link rel="stylesheet" href="../../../css/sidebar.css">
-    <script src="../../../js/sidebar.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <link rel="stylesheet" href="../css/sidebar.css">
+    <script src="../js/sidebar.js" type="text/javascript"></script>
     {% endblock %}
 </head>
 <body>
@@ -56,7 +56,7 @@
                     <ul class="dropdown-menu">
                         <li><a href="../locations">Location List</a></li>
                         <li><a href="../blog">All Blog Posts</a></li>
-                        <li><a href="acknowledgements.html">Acknowledgements</a></li>
+                        <li><a href="../acknowledgements.html">Acknowledgements</a></li>
                     </ul>
                 </li>
             </ul>
@@ -75,17 +75,17 @@
                     {{ meta.place }}
                 </li>
                 <li>
-                    <a href="places/?{{  meta.place }}">
+                    <a href="../places?{{  meta.place }}">
                         <span class="fa fa-anchor solo">About</span>
                     </a>
                 </li>
                 <li>
-                    <a href="places/?{{  meta.place }}/blog" data-scroll>
+                    <a href="../places?{{  meta.place }}/blog" data-scroll>
                         <span class="fa fa-anchor solo">Blog Posts</span>
                     </a>
                 </li>
                 <li>
-                    <a href="places/?{{  meta.place }}/" data-scroll>
+                    <a href="../places?{{  meta.place }}/" data-scroll>
                         <span class="fa fa-anchor solo">Gallery</span>
                     </a>
                 </li>
