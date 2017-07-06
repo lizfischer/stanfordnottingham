@@ -39,11 +39,11 @@ function flyHome() {
 }
 
 var places = {
-    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"sampleDescription.html"},
+    "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"nottingham.html"},
     "breedon": {name: "Breedon on the Hill", latlong: [52.806069, -1.399813], file:"sampleBlog2.html"},
     "appleby": {name: "Appleby Parva & No Man's Heath", latlong: [52.677361, -1.570809]},
     "lincoln": {name: "Lincoln", latlong: [53.230688, -0.540579]},
-    "montgomery":{name: "Montgomery", latlong: [52.562790, -3.149331]},
+    "montgomery":{name: "Montgomery", latlong: [52.562790, -3.149331], file:"short-desc/montgomery.html"},
     "london": {name: "London", latlong: [51.507351, -0.127758]},
     "cambridge": {name: "Cambridge", latlong: [52.205337, 0.121817]}
 };
