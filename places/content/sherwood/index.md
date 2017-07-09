@@ -3,6 +3,7 @@ Title: Sherwood Forest
 Tags: place
 Filters: sherwood
 Template: index
+Author: Raci
 Place: sherwood
 img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
 ---
