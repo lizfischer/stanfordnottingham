@@ -1,0 +1,22 @@
+{% extends "noSidebar.twig" %}
+{% set active_page = "blog" %}
+
+{% block body %}
+
+{{ parent() }}
+<h2>{{ meta.title }}</h2>
+    <hr>
+    {% if pages == null %}
+        No blog posts found.
+    {% endif %}
+    {% for page in pages|sort_by("time")|reverse %}
+        {% if page.id starts with "blog/" %}
+            <div class="post">
+                <h3><a href="../places?{{ page.id }}">{{ page.title }}</a></h3>
+                <p class="author">by {{ page.author }} - {{ page.date_formatted }}</p>
+                <p class="excerpt">{{ page.description }}</p>
+            </div>
+        {% endif %}
+    {% endfor %}
+
+{% endblock %}
