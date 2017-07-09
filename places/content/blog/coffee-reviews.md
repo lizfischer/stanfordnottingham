@@ -1,6 +1,7 @@
 ---
 Title: Coffee Reviews
 Tags: nottingham
+Place: nottingham
 Author: Sarah Phillips
 Date: 04-07-2017  
 Template: blog-post
