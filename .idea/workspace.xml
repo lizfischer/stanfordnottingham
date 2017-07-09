@@ -5,33 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9d69ab-1214-4405-bffe-f47c585fa3a8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/blog/plugins/pico_edit" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/places/content/blog/montgomery-1.md" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/placeData.js" afterPath="$PROJECT_DIR$/placeData.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/breedon-saltst/index.md" afterPath="$PROJECT_DIR$/places/content/breedon-saltst/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/brixworth/index.md" afterPath="$PROJECT_DIR$/places/content/brixworth/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/ely-peterborough/index.md" afterPath="$PROJECT_DIR$/places/content/ely-peterborough/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/icknield/index.md" afterPath="$PROJECT_DIR$/places/content/icknield/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/index.md" afterPath="$PROJECT_DIR$/places/content/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/lincoln/index.md" afterPath="$PROJECT_DIR$/places/content/lincoln/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/nottingham/index.md" afterPath="$PROJECT_DIR$/places/content/nottingham/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/sherwood/index.md" afterPath="$PROJECT_DIR$/places/content/sherwood/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/base.twig" afterPath="$PROJECT_DIR$/places/themes/default/base.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/blog.twig" afterPath="$PROJECT_DIR$/places/themes/default/blog.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/index.twig" afterPath="$PROJECT_DIR$/places/themes/default/index.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/breedon-saltst.html" afterPath="$PROJECT_DIR$/short-desc/breedon-saltst.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/brixworth.html" afterPath="$PROJECT_DIR$/short-desc/brixworth.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/cambridge.html" afterPath="$PROJECT_DIR$/short-desc/cambridge.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/ely-peterborough.html" afterPath="$PROJECT_DIR$/short-desc/ely-peterborough.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/icknield.html" afterPath="$PROJECT_DIR$/short-desc/icknield.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/lincoln.html" afterPath="$PROJECT_DIR$/short-desc/lincoln.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/montgomery.html" afterPath="$PROJECT_DIR$/short-desc/montgomery.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/nottingham.html" afterPath="$PROJECT_DIR$/short-desc/nottingham.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/offasdyke.html" afterPath="$PROJECT_DIR$/short-desc/offasdyke.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/sherwood.html" afterPath="$PROJECT_DIR$/short-desc/sherwood.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,8 +36,8 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="195" column="39" lean-forward="false" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="39" />
+            <state relative-caret-position="503">
+              <caret line="203" column="41" lean-forward="false" selection-start-line="203" selection-start-column="41" selection-end-line="203" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -574,7 +548,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93383000" />
+    <option name="totallyTimeSpent" value="93583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="469" y="0" width="904" height="735" extended-state="0" />
@@ -1102,8 +1076,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="195" column="39" lean-forward="false" selection-start-line="195" selection-start-column="39" selection-end-line="195" selection-end-column="39" />
+        <state relative-caret-position="503">
+          <caret line="203" column="41" lean-forward="false" selection-start-line="203" selection-start-column="41" selection-end-line="203" selection-end-column="41" />
           <folding />
         </state>
       </provider>
