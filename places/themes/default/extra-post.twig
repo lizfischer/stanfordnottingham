@@ -1,0 +1,12 @@
+{% extends "noSidebar.twig" %}
+
+{% block body %}
+
+<h1>{{ current_page.title }}</h1>
+    <p><span class="byline">by {{ meta.author }}</span> {{ current_page.date_formatted }}</p>
+<hr>
+<div class="">
+{{ parent() }}
+    </div>
+
+{% endblock %}

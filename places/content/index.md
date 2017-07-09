@@ -11,6 +11,7 @@ social:
 Filter: blog
 ---
 
+
 ## Welcome to Pico
 
 Congratulations, you have successfully installed [Pico](http://picocms.org/).

@@ -17,12 +17,36 @@
     <script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
 
 
-    <!-- mine -->
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" href="../css/main.css">
-    <link rel="stylesheet" href="../css/sidebar.css">
-    <script src="../js/sidebar.js" type="text/javascript"></script>
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
+        <link rel="stylesheet" href="{{ theme_url }}/style.css" type="text/css" />
+        <link rel="stylesheet" href="{{ theme_url }}/fontello.css" type="text/css" />
+
+        <script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
+
+        <!-- mine -->
+        <link rel="stylesheet" href="../css/bootstrap.min.css">
+        <link rel="stylesheet" href="../css/main.css">
+        <link rel="stylesheet" href="../css/sidebar.css">
+        <script src="../js/sidebar.js" type="text/javascript"></script>
         <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="../css/ekko-lightbox.css">
+        <script type="text/javascript" src="../js/ekko-lightbox.js"></script>
 
     {% endblock %}
 </head>
@@ -50,7 +74,7 @@
                     <a href="../index.html#map-anchor">Explore Locations</a>
                 </li>
                 <li>
-                    <a href="../index.html#about-anchor">About</a>
+                    <a href="../about.html">About</a>
                 </li>
                 <li>
                     <a href="#">Extras</a>
@@ -72,8 +96,8 @@
 </nav>
 <div id="place-wrapper">
     {% set navigation_bar = [[meta.place, 'About', 'fa-info-circle', "about"],
-                                [meta.place ~ '/blog', 'Thought Bubble','fa-lightbulb-o', "blog"],
-                                [meta.place, 'Gallery', 'fa-camera', "gallery"]] %}
+                                [meta.place ~ '/blog', 'Blog Posts','fa-lightbulb-o', "blog"],
+                                [meta.place ~ '/gallery', 'Gallery', 'fa-camera', "gallery"]] %}
     {% set active_page = active_page|default('about') %}
 
     <!-- Sidebar -->

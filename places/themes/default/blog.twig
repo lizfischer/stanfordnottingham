@@ -4,8 +4,11 @@
 {% block body %}
 
 {{ parent() }}
-<h2>Thoughts from {{ meta.place|capitalize }}</h2>
+<h2>{{ meta.title }}</h2>
     <hr>
+    {% if pages == null %}
+        No blog posts found.
+    {% endif %}
     {% for page in pages|sort_by("time")|reverse %}
         {% if page.id starts with "blog/" %}
             <div class="post">

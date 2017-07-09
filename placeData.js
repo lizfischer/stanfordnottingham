@@ -44,14 +44,15 @@ var places = {
     "brixworth": {name: "Brixworth", latlong: [52.333980, -0.904436], file:"short-desc/brixworth.html"},
     "cambridge": {name: "Cambridge", latlong: [52.205337, 0.121817],file:"short-desc/cambridge.html"},
     "ely-peterborough": {name: "Ely and Peterborough", latlong: [52.398661, 0.263779], file:"short-desc/ely-peterborough.html"},
-    "icknield": {name: "Icknield Way", latlong: [51.885465, -0.578812], file:"short-desc/ely-icknield.html"},
+    "icknield": {name: "Icknield Way", latlong: [51.885465, -0.578812], file:"short-desc/icknield.html"},
     "lincoln": {name: "Lincoln", latlong: [53.234297, -0.536056], file:"short-desc/lincoln.html"},
     "london": {name: "London", latlong: [51.529999, -0.127716],file:"short-desc/london.html"},
     "montgomery":{name: "Montgomery", latlong: [52.562790, -3.149331], file:"short-desc/montgomery.html"},
     "nottingham":{name: "Nottingham", latlong: [52.936925, -1.196139], file:"short-desc/nottingham.html"},
     "offasdyke": {name: "Offa's Dyke", latlong: [52.567373, -3.129205],file:"short-desc/offasdyke.html"},
     "sherwood": {name: "Sherwood Forest", latlong: [53.202948, -1.064000],file:"short-desc/sherwood.html"},
-    "suttonhoo": {name: "Sutton Hoo", latlong: [52.094451, 1.340796],file:"short-desc/suttonhoo.html"}
+    "suttonhoo": {name: "Sutton Hoo", latlong: [52.094451, 1.340796],file:"short-desc/suttonhoo.html"},
+    "weststow": {name: "West Stow", latlong: [52.310801, 0.635667],file:"short-desc/weststow.html"}
 };
 
 /*

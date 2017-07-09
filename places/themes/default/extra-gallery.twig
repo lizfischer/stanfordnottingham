@@ -1,0 +1,37 @@
+{% extends "noSidebar.twig" %}
+{% set active_page = "gallery" %}
+{% block body %}
+    {{ parent }}
+
+
+
+    <h2>{{ meta.title }}</h2>
+    <div class="row ">
+        <div class="offset-md-2 col-md-12 gallery">
+            <div class="row">
+                {% for image in meta.images %}
+                    {% if loop.index0 is divisible by (3) %}
+                         </div>
+                        <div class="row">
+                    {% endif %}
+                <a href="img/{{ image[0] }}" data-toggle="lightbox" data-footer="{{ image[1] }}" data-gallery="example-gallery" class="col-sm-4">
+                    <img src="img/{{ image[0] }}" class="img-fluid thumb">
+                </a>
+                {% endfor %}
+                    </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var cw = $('.thumb').width();
+        $('.thumb').css({
+            'height': cw + 'px'
+        });
+    </script>
+    <script>
+        $(document).on('click', '[data-toggle="lightbox"]', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+    </script>
+{% endblock %}
