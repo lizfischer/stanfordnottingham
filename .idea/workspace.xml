@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9d69ab-1214-4405-bffe-f47c585fa3a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,7 +33,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="165" column="97" lean-forward="false" selection-start-line="165" selection-start-column="97" selection-end-line="165" selection-end-column="97" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="503">
@@ -89,7 +99,6 @@
         <option value="$PROJECT_DIR$/short-desc/sherwood.html" />
         <option value="$PROJECT_DIR$/places/content/weststow/blog.md" />
         <option value="$PROJECT_DIR$/places/content/extras.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/places/themes/default/extra-post.twig" />
         <option value="$PROJECT_DIR$/places/content/extras/borders.md" />
         <option value="$PROJECT_DIR$/places/content/extras/stone.md" />
@@ -136,6 +145,7 @@
         <option value="$PROJECT_DIR$/places/themes/default/noSidebar.twig" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -548,7 +558,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93583000" />
+    <option name="totallyTimeSpent" value="93718000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="469" y="0" width="904" height="735" extended-state="0" />
@@ -679,14 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="478">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1078,6 +1080,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
           <caret line="203" column="41" lean-forward="false" selection-start-line="203" selection-start-column="41" selection-end-line="203" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="165" column="97" lean-forward="false" selection-start-line="165" selection-start-column="97" selection-end-line="165" selection-end-column="97" />
           <folding />
         </state>
       </provider>
