@@ -12,9 +12,12 @@ video_cap: "<i>This video also contains footage from <a href='places?lincoln'>Li
 
 ####Breedon On-the-Hill
 
-Breedon On-the-Hill is a village in North West Leicestershire, notable for the Church of St Mary and St Hardulph, which comprises the remains of a 7th century Anglo Saxon Church. It’s an interesting place name because it combines three linguistic forms of ‘hill.’ _Bre_ is a Celtic word for ‘hill,’ _dun_ is an Old English word for ‘hill,’ and _On the Hill_ is self explanatory. 
+Breedon On-the-Hill is a village in North West Leicestershire, notable for the Church of St Mary and St Hardulph, which comprises the remains of a 7th century Anglo Saxon Church. It’s an interesting place name because it combines three linguistic forms of ‘hill.’ _Bre_ is a Celtic word for ‘hill,’ _dun_ is an Old English word for ‘hill,’ and 'On the Hill' is self explanatory. 
+
 It’s priory church is know for some of the best surviving Anglo-Saxon stone sculptures, including biblical scenes, saints, animals, and geometric designs. While its overall footprint has shrunk, much of the original Anglo Saxon structure as well as the later Norman structure remains. Originally constructed in 676 CE, the church was sacked by Vikings in the 10th c., and converted from a monastery to a Priory church and rebuilt in 1122. It was expanded in the 13th century, and much of this building - especially the chancel - which is visible today.
+
 Following the dissolution of the monasteries, a local family, the Shirleys, purchased the site from King Henry VIII as a burial place. While unfortunately much of the footprint of the monastery was destroyed, including the entirety of the nave, many of the original carvings were kept. The entire church now fits into what would once have only been the chancel. The North aisle became the repository for the Shirley monuments and tombs, including an imposing alabaster skeleton. 
+
 When we visited it was rainy weather, and peering over the hill we could see the quarry that’s been chipping away at the original site of the church. This has been fatal to much of the evidence that may have been preserved in the landscape, and was a reminder that no matter how natural we think the landscape is, in almost all cases it has been shaped by humans.
 
 #### Salt Street, No Man’s Heath and Appleby Parva

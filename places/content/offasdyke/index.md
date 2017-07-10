@@ -1,11 +1,14 @@
 ---
 Title: Offa's Dyke
+Author: Hayley Hodson
 Tags: place
 Filters: offasdyke
 Template: index
 Place: offasdyke
-img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
+img: 
 ---
+
+On our seminar, we traveled through the landscape of the Welsh-English border walking five miles of the length of Offa’s Dyke near Montgomery, Wales. We began at the top of a hill and were surprised to find the dyke rather mixed with the landscape and not in its own right a very obvious feature. However, when one considers how the medieval Welsh would have approached the monument one can imagine that the Dyke was quite imposing. Considering that the earthwork has stood the test of time and retained its impressive stature in many parts, it was a fascinating experience to weave through the countryside and imagine what the impact of such a border might have been a thousand years ago. 
 
 Offa's Dyke is a medieval earthwork that runs the length of a large portion of the border between England and Wales. Thought to have been primarily constructed by King Offa of Mercia in the 8th century, the dyke served as a boundary between the Welsh and the Anglo-Saxon kingdom of Mercia, though its origin and intended purpose is a matter of considerable debate. Recent archaeology and ever-evolving scholarship on the dyke seem to further muddy the waters. What we do know, though, is that it is a very old construction that has potential political, diplomatic, and agro-economical functions and more or less once separated the Kingdom of Mercia from the border region of Wales.   
 

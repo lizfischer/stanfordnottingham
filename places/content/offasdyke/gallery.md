@@ -1,6 +1,6 @@
 ---
-Title: Gallery for Breedon on the Hill and Salt Street
+Title: Gallery for Offa's Dyke
 Template: gallery
-Place: breedon-saltst
+Place: offasdyke
 Images: []
 ---

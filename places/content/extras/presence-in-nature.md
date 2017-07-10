@@ -1,0 +1,13 @@
+---
+Title: Reflection on Presence in Nature
+Author: Cole Thomson
+Date: 05-07-2017
+Template: extra-post
+Tags: extra
+---
+
+When first asked to reflect on the word “green” I thought it would be a relatively straightforward task. I’ve always enjoyed being in natural spaces, whether rolling fields, lush forests, or towering mountainscapes, due to their ability to separate my mind from the clutters of everyday life. It’s easy to become immersed in my surroundings and lose myself just a little in the sights, sounds and smells of the natural world. As such my plan was to take these details and write a vividly descriptive piece about the British countryside and how it feels to be immersed in ‘green’.
+ 
+However when I sat in my cramped Montgomery hotel room after a day of hiking through these breathtaking landscapes, I found myself grasping for a place to start. The sensory experiences that had seem so real and all-encompassing just a few hours before were now faded and vague, details slipping through my fingertips as I struggled to write them down. This creative struggle caused me to realize that my love for the natural world is built on ephemerality. I spend the vast majority of my time surrounded by human construction and technology, trying to keep up with the breakneck speed of 21st century life. The slower pace that nature provides is a welcome respite, but at the same time a temporary one. I spend a chunk of time calming myself by taking in the details of the green world, but my return to the grey one seems to make them flee my head and give way to everyday cares and worries.
+
+This problem of ‘fading’ of memory is a tricky one to solve, and I’m still not totally sure what to do about it. Spending more time in nature appears like an easy way to approach the issue, but I’m skeptical about its effectiveness. My problem lies in the transition from the natural to the artificial, and increasing my trips to the natural world would only increase the number of these transitions. As such, my next idea and current plan of action is a more subtle approach. Instead of only focusing on natural details in certain defined chunks of time, I think it might be beneficial to try and be aware of the world around me at all times. After all, traces of green can be found in the most cluttered of human locations, whether through a tree root poking up underneath a sidewalk or just the sound of the wind rushing between buildings. I hope that by looking for these details I can get some of that calming energy I find in nature on a daily basis, so that the next time I immerse myself in the green I’ll be able to appreciate it even after I’ve left the place.

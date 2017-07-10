@@ -1,6 +1,7 @@
 ---
 Title: Icknield Way
 Tags: place
+Author: Corie Wieland
 Filters: icknield
 Template: index
 Place: icknield
@@ -17,7 +18,7 @@ The highway provided a convenient footpath for incoming armies. A number of defe
 
 The Icknield Way was named in the 1130s, along with Ermine Street, Fosse Way, and Watling Street, as an important English highway. A 12th century historian claimed that all four highways had been constructed by royal decree. While highly unlikely, the highways did provide fast and easy movement for king, army, and traveler. Together, they span the distance of England. 
 
-As a modern long-distance footpath, the Icknield Way stretches 170 miles as an eight day hiking trail. Whether the Icknield Way is prehistoric or pre-Roman, today’s hikers can share the footsteps of thousands of years worth of travelers—an experience as timeless and unforgettable as the Icknield Way itself. 
+As a modern long-distance footpath, the Icknield Way stretches 110 miles as an eight day hiking trail. Whether the Icknield Way is prehistoric or pre-Roman, today’s hikers can share the footsteps of thousands of years worth of travelers—an experience as timeless and unforgettable as the Icknield Way itself. 
 
 ####Sources:
 Harrison, Sarah. “The Icknield Way: some queries”, *The Archaeological Journal*, 160, 1-22, 2003.

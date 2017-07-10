@@ -3,8 +3,8 @@
 {% block body %}
 
 {{ parent() }}
-<h2>Extras</h2>
-    <p>Creative works produced during the seminar.</p>
+<h2>Creative Works</h2>
+    <p>Drawings, poetry, reflections, and fiction produced during the seminar. Most were made with the prompts stone, green, fragmentary, and boundary in mind.</p>
     <hr>
     {% for page in pages|sort_by("time")|reverse %}
         {% if page.id starts with "extras/" %}

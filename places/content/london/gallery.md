@@ -1,6 +1,6 @@
 ---
-Title: Gallery for Breedon on the Hill and Salt Street
+Title: Gallery for London
 Template: gallery
-Place: breedon-saltst
-Images: []
+Place: london
+Images: [["london-books.jpeg", "Liz spent her lunch money on books and only feels a little bad about it"]]
 ---

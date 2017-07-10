@@ -1,0 +1,15 @@
+---
+Title: Timeless Footsteps
+Tags: sherwood, breedon-saltst
+Place: sherwood
+Date: 30-06-2017
+Author: Corie Wieland
+Template: blog-post
+---
+As we have begun to explore the landscape through the lens of Anglo-Saxon travelers, we have been fortunate to find ourselves tracing timeless footpaths on several ancient and prehistoric routeways. During our first week of immersive seminar in Nottingham, we explored the Salt Street of Appleby Parva and also walked the trails of Sherwood Forest.
+
+We navigated the Salt Street as part of a quest to trace the Medieval boundary clause of Appleby Parva. The recent rain made for a muddy treck, but we (and our shoes) managed to follow the well-worn trail without issue. We were greeted at times by sheep and chicken as our route cut through modern-day farms, and we only had to turn around once as we were suddenly walking parallel to the motorway instead of adjacent to it. We realized that as we were searching for thorn trees and hillsides, we had already replaced the landscape markers in our minds with cellphone towers and fenceposts. Despite our modern retelling of the landscape, it was clear that Salt Street had been hosting travelers like us for thousands of years. Salt Street was once used as a prehistoric routeway for traders, and in the areas where the hedge rose above our heads and the birdcalls overtook the sounds of the motorway, we could easily imagine ourselves pushing carts full of salt thousands of years before.
+
+Sherwood Forest is famous to most Americans for hosting Robin of Loxley, better known as Robin Hood, the valiant outlaw who stole from the rich to give to the poor. In England, Robin Hood grew to be a symbol of Anglo-Saxon resistance to the Norman Invasion, and we were beyond excited to explore his home in the modern Sherwood Forest National Nature Reserve. We posed for pictures in front of the Major Oak, a 900-year- old tree said to be Robin Hood’s hideout, before venturing deeper into the wood in search of the even older Viking meeting point of Thinghowe. All together we enjoyed a four-and-a-half mile journey through the forest. Though we were conscious of the time, there were several parts of the trail where only small patches of sunlight filtered through the canopy and only the rustlings of wildlife reached our ears. In those moments, it was easy to picture Robin Hood lying in wait, or a Viking on his way to a Thinghowe meeting, or even an Anglo-Saxon on a leisurely stroll through the trees.
+
+The sights, smells, and sounds of the forest would have been the same, both on Salt Street and the Sherwood Path, as they were for generations of travelers before us. We could almost feel their presence beside us as we passed through the timeless and ancient paths. I wonder if they in turn could have felt our presence—the foreshadowing of future footsteps—as they set about their daily journeys. Maybe we also felt the stirrings of future generations of travelers, who will one day walk along Salt Street or Sherwood Forest and wonder at the experience of 21st century hikers.
