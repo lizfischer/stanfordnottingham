@@ -5,7 +5,7 @@ Author: Jessica Rodriguez
 Filters: cambridge
 Template: index
 Place: cambridge
-img: cambridge.jpg
+img: img/cambridge.jpg
 ---
 ﻿Today, Cambridge is best known for being home to the University of Cambridge. However, the city of Cambridge has a long history, and has existed long before the university itself. Cambridge has seen the settlement of the Romans, the Anglo Saxons, and the Normans. The university’s earliest records are from 1209, when students from Oxford came to Cambridge. Cambridge is a central location with many museums and historical sites for anyone to see.
 

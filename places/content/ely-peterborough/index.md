@@ -5,7 +5,7 @@ Author: Sarah Phillips and Kiana Pancino
 Filters: ely-peterborough
 Template: index
 Place: ely-peterborough
-img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
+img: img/ely.jpg
 ---
 
 ###Ely

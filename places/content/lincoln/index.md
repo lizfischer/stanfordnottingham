@@ -4,7 +4,7 @@ Tags: place
 Filters: lincoln
 Template: index
 Place: lincoln
-img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
+img: img/lincoln.jpg
 ---
 
 
@@ -31,7 +31,7 @@ Construction began in 1088, and moved in fits and starts throughout the medieval
 It has beautiful and intriguing architectural features, including two major rose windows, and asymmetrical vaults. It also hosts the Wren Library which houses rare collections, including the works of the Venerable Bede, famous for his Ecclesiastical History of the English People. It takes its name from Sir Christopher Wren, a late 17th century architect known for designing St. Paul’s cathedral and the facade for Hampton court. 
 
 
-_For video from Lincoln, see [Breedon on the Hill](places?breedon-saltst)_
+_For video from Lincoln, see [Breedon on the Hill](breedon-saltst)_
 
 ***
 

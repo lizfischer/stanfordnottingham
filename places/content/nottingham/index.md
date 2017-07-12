@@ -4,6 +4,7 @@ Tags: place
 Filters: nottingham
 Template: index
 Place: nottingham
+img: img/nottingham.jpg
 ---
 
 Known to the Britons as _Tigguo Cobauc_ (“Place of Caves”) and the Saxons as Snotingaham (“the homestead of Snot’s people”), Nottingham is an ancient city that has been shaped by many different peoples and cultures throughout the centuries. Perhaps the city is most famous today as the home of the legendary Robin Hood, along with landmarks such as Nottingham Castle and Sherwood Forest. During our one-week stay at the University of Nottingham, we also had the opportunity to meet and learn from a host of wonderful people including Jayne Carroll, Christina Lee, John Baker, and Stuart Brookes, and a cohort of friendly master’s students. 

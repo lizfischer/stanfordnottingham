@@ -10,8 +10,9 @@
     {% endif %}
     {% if meta.video %}
         <iframe width="560" height="315" src="{{ meta.video }}" frameborder="0" allowfullscreen></iframe>
-        {% if meta.video_cap %}<p>{{ meta.video_cap }}</p> {% endif %}
     {% endif %}
+    {% if meta.video_cap %}<p>{{ meta.video_cap }}</p> {% endif %}
+
     <div class="dropcap">
         {{ parent() }}
     </div>

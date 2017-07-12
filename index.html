@@ -194,7 +194,7 @@
         map.addLayer(layer);
 
         map.fitBounds([[53.733116,-3.330139],[51.238535,0.635925]])
-        map.scrollWheelZoom.disable();
+       // map.scrollWheelZoom.disable();
         var isProgramaticZoom = false;
         map.on('zoomstart', function() {
             if (!isProgramaticZoom) {homeButton.enable();}

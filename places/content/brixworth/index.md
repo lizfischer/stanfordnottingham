@@ -4,7 +4,7 @@ Tags: place
 Filters: brixworth
 Template: index
 Place: brixworth
-img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
+img: img/brixworth.jpg
 ---
 
 At first glance Brixworth seems like an unremarkable English village. Located 

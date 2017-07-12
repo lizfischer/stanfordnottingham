@@ -4,7 +4,8 @@ Tags: place
 Filters: weststow
 Template: index
 Place: weststow
-img: https://www.wpfreeware.com/wp-content/uploads/2014/09/placeholder-images.jpg
+img: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/West_Stow_Anglo-Saxon_village_2.jpg/1200px-West_Stow_Anglo-Saxon_village_2.jpg
+video_cap: <i>Image courtesy of Wikimedia Commons</i>
 ---
 
 
