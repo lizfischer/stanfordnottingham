@@ -17,8 +17,8 @@ We rose early to march to Starbucks
 Dedicated to finding an iteration tolerable  
 To our tastes, to your grace  
 In order to preserve our energy  
-Through lectures on boundary clauses  
-And to aid in enduring the misery of GIS.  
+Through jet-lagged classes on boundary clauses
+And attempting to understand Beowulf.  
  
 We stopped to smell your glory   
 At every proper coffee shop  
