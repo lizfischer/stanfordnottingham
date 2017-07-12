@@ -1,5 +1,5 @@
 ---
-Title: Restraunt Review - Pitcher & Piano
+Title: Restaurant Review - Pitcher & Piano
 Tags: nottingham
 Place: nottingham
 Author: Sarah Phillips

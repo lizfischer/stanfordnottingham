@@ -1,5 +1,5 @@
 ---
-Title: Restraunt Review - Ollerton Mill
+Title: Restaurant Review - Ollerton Mill
 Tags: sherwood
 Place: sherwood
 Author: Clare Tandy

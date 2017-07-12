@@ -5,40 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9d69ab-1214-4405-bffe-f47c585fa3a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/cambridge.jpg" afterPath="$PROJECT_DIR$/img/cambridge.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/ely.jpg" afterPath="$PROJECT_DIR$/img/ely.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/lincoln.jpg" afterPath="$PROJECT_DIR$/img/lincoln.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/montgomery.jpg" afterPath="$PROJECT_DIR$/img/montgomery.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/peterborough.jpg" afterPath="$PROJECT_DIR$/img/peterborough.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sherwood.JPG" afterPath="$PROJECT_DIR$/img/sherwood.JPG" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/stanfordnottingham.iml" afterPath="$PROJECT_DIR$/.idea/stanfordnottingham.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/breedon-saltst/gallery.md" afterPath="$PROJECT_DIR$/places/content/breedon-saltst/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/brixworth/gallery.md" afterPath="$PROJECT_DIR$/places/content/brixworth/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/brixworth/index.md" afterPath="$PROJECT_DIR$/places/content/brixworth/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/cambridge/gallery.md" afterPath="$PROJECT_DIR$/places/content/cambridge/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/cambridge/index.md" afterPath="$PROJECT_DIR$/places/content/cambridge/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/ely-peterborough/gallery.md" afterPath="$PROJECT_DIR$/places/content/ely-peterborough/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/ely-peterborough/index.md" afterPath="$PROJECT_DIR$/places/content/ely-peterborough/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/extras/index.md" afterPath="$PROJECT_DIR$/places/content/extras/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/icknield/gallery.md" afterPath="$PROJECT_DIR$/places/content/icknield/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/lincoln/gallery.md" afterPath="$PROJECT_DIR$/places/content/lincoln/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/lincoln/index.md" afterPath="$PROJECT_DIR$/places/content/lincoln/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/london/index.md" afterPath="$PROJECT_DIR$/places/content/london/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/montgomery/gallery.md" afterPath="$PROJECT_DIR$/places/content/montgomery/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/nottingham/gallery.md" afterPath="$PROJECT_DIR$/places/content/nottingham/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/nottingham/index.md" afterPath="$PROJECT_DIR$/places/content/nottingham/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/offasdyke/gallery.md" afterPath="$PROJECT_DIR$/places/content/offasdyke/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/offasdyke/index.md" afterPath="$PROJECT_DIR$/places/content/offasdyke/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/sherwood/gallery.md" afterPath="$PROJECT_DIR$/places/content/sherwood/gallery.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/sherwood/index.md" afterPath="$PROJECT_DIR$/places/content/sherwood/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/weststow/index.md" afterPath="$PROJECT_DIR$/places/content/weststow/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/index.twig" afterPath="$PROJECT_DIR$/places/themes/default/index.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/ely-peterborough.html" afterPath="$PROJECT_DIR$/short-desc/ely-peterborough.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/london.html" afterPath="$PROJECT_DIR$/short-desc/london.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/suttonhoo.html" afterPath="$PROJECT_DIR$/short-desc/suttonhoo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/blog/cumin.md" afterPath="$PROJECT_DIR$/places/content/blog/cumin.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/blog/nottingham-night-out.md" afterPath="$PROJECT_DIR$/places/content/blog/nottingham-night-out.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/blog/ollerton-mill.md" afterPath="$PROJECT_DIR$/places/content/blog/ollerton-mill.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/blog/pitcher-piano.md" afterPath="$PROJECT_DIR$/places/content/blog/pitcher-piano.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,12 +26,116 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gallery.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gallery.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/places/content/sherwood/gallery.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="68">
                 <caret line="4" column="569" lean-forward="false" selection-start-line="4" selection-start-column="569" selection-end-line="4" selection-end-column="569" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nottingham-night-out.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/nottingham-night-out.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="459">
+                <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cumin.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/cumin.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pitcher-piano.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/pitcher-piano.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ollerton-mill.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/ollerton-mill.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="17">
+                <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tilt.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/tilt.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="187">
+                <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="timeless-footsteps.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/timeless-footsteps.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sundials.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/sundials.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coffee-reviews.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/places/content/blog/coffee-reviews.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="357">
+                <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -124,8 +198,6 @@
         <option value="$PROJECT_DIR$/places/themes/default/base.twig" />
         <option value="$PROJECT_DIR$/places/themes/default/blog-post.twig" />
         <option value="$PROJECT_DIR$/places/content/blog/coffee-reviews.md" />
-        <option value="$PROJECT_DIR$/places/content/blog/ollerton-mill.md" />
-        <option value="$PROJECT_DIR$/places/content/blog/pitcher-piano.md" />
         <option value="$PROJECT_DIR$/places/content/blog/church-construction.md" />
         <option value="$PROJECT_DIR$/places/content/blog/boundaries.md" />
         <option value="$PROJECT_DIR$/places/content/breedon-saltst/index.md" />
@@ -134,7 +206,6 @@
         <option value="$PROJECT_DIR$/places/content/extras/gallery.md" />
         <option value="$PROJECT_DIR$/places/content/icknield/index.md" />
         <option value="$PROJECT_DIR$/places/content/blog/timeless-footsteps.md" />
-        <option value="$PROJECT_DIR$/places/content/blog/nottingham-night-out.md" />
         <option value="$PROJECT_DIR$/places/themes/default/extras.twig" />
         <option value="$PROJECT_DIR$/places/content/extras/presence-in-nature.md" />
         <option value="$PROJECT_DIR$/places/content/blog/tilt.md" />
@@ -144,7 +215,6 @@
         <option value="$PROJECT_DIR$/places/content/extras/untitled-poem.md" />
         <option value="$PROJECT_DIR$/places/content/extras/index.md" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/places/content/blog/cumin.md" />
         <option value="$PROJECT_DIR$/places/content/blog/borders.md" />
         <option value="$PROJECT_DIR$/places/content/blog/collective-memory.md" />
         <option value="$PROJECT_DIR$/places/content/london/index.md" />
@@ -171,6 +241,10 @@
         <option value="$PROJECT_DIR$/places/content/nottingham/gallery.md" />
         <option value="$PROJECT_DIR$/places/content/offasdyke/gallery.md" />
         <option value="$PROJECT_DIR$/places/content/sherwood/gallery.md" />
+        <option value="$PROJECT_DIR$/places/content/blog/nottingham-night-out.md" />
+        <option value="$PROJECT_DIR$/places/content/blog/cumin.md" />
+        <option value="$PROJECT_DIR$/places/content/blog/pitcher-piano.md" />
+        <option value="$PROJECT_DIR$/places/content/blog/ollerton-mill.md" />
       </list>
     </option>
   </component>
@@ -188,7 +262,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
-    <option name="height" value="371" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -406,6 +480,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="places" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanfordnottingham" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanfordnottingham" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="img" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -553,17 +649,18 @@
       <workItem from="1499378283705" duration="287000" />
       <workItem from="1499593787077" duration="215000" />
       <workItem from="1499605506926" duration="212000" />
-      <workItem from="1499811391213" duration="6273000" />
+      <workItem from="1499811391213" duration="6978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110154000" />
+    <option name="totallyTimeSpent" value="110859000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="371" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46255508" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3318649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -594,69 +691,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/places/content/weststow/gallery.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="51">
-            <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="15" selection-end-line="3" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/content/extras/gallery.md" />
-    <entry file="file://$PROJECT_DIR$/places/content/extras/broken-structures.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/content/blog/timeless-footsteps.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/content/blog/nottingham-night-out.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="527">
-            <caret line="31" column="3" lean-forward="false" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/themes/default/extras.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="159" lean-forward="false" selection-start-line="6" selection-start-column="159" selection-end-line="6" selection-end-column="159" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/places/content/extras/presence-in-nature.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="204">
             <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/content/blog/tilt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="187">
-            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           </first_editor>
           <second_editor />
         </state>
@@ -715,17 +754,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="102">
             <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/content/blog/cumin.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1089,6 +1117,94 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="68">
             <caret line="4" column="569" lean-forward="false" selection-start-line="4" selection-start-column="569" selection-end-line="4" selection-end-column="569" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/nottingham-night-out.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="459">
+            <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/cumin.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/pitcher-piano.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/ollerton-mill.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="17">
+            <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/tilt.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="187">
+            <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/timeless-footsteps.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/sundials.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/blog/coffee-reviews.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="357">
+            <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />

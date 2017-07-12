@@ -1,5 +1,5 @@
 ---
-Title: Restraunt Review: The Cumin 
+Title: Restaurant Review: The Cumin 
 Tags: nottingham
 Place: nottingham
 Date: 27-06-2017
