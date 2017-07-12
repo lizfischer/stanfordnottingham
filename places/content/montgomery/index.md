@@ -6,6 +6,7 @@ Author: Maria
 Template: index
 Place: montgomery
 video: https://www.youtube.com/embed/15ckTlwiquo
+video_cap: "<i>This video also contains footage from <a href='places?offasdyke'>Offa's Dyke</a></i>"
 ---
 Montgomery, Wales—also known by its Welsh name Trefaldwyn—is a small border town between England and Wales located in the administrative district of Powys. The earliest attestation of _Montgomeri_ comes from the Domesday Book in 1086 and lent itself to the naming of its county, Montgomeryshire. The two sites of historical significance we visited in this town were the remains of its castle and its St. Nicholas Parish Church.  
 

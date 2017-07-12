@@ -5,7 +5,7 @@ Filters: sherwood
 Template: index
 Author: Raci
 Place: sherwood
-video: https://www.youtube.com/watch?v=QexIvz9FPy8
+video: https://www.youtube.com/embed/QexIvz9FPy8
 ---
 
 Sherwood Forest, located 20 miles north of Nottingham, is a country park known for being the home of the legendary Robin Hood.  The first recorded spelling of Sherwood was ‘Shiryuda’ or ‘Shirwuda’ in a 958 boundary clause granting land to an archbishop.  Up until the Norman conquest of 1066, the land had been used as farmland by local communities.  Then it was designated a “Royal Hunting Forest” where the legal term, “forest,” meant that many of its resources, especially timber, were protected.  Local workers, who were also employed by the king, strictly enforced these laws.  By the 12th century, Sherwood Forest comprised 100,000 acres and made up 1/5th of Nottinghamshire.  
