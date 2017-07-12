@@ -5,28 +5,28 @@ Template: noSidebar
 
 ## List of Locations
 
-[Breedon on the Hill and Salt Street](places?breedon-saltst)
+[Breedon on the Hill and Salt Street](breedon-saltst)
 
-[Brixworth](places?brixworth)
+[Brixworth](brixworth)
 
-[Cambridge](places?cambridge)
+[Cambridge](cambridge)
 
-[Ely and Peterborough](places?ely-peterborough)
+[Ely and Peterborough](ely-peterborough)
 
-[Icknield Way](places?icknield)
+[Icknield Way](icknield)
 
-[Lincoln](places?lincoln)
+[Lincoln](lincoln)
 
-[London](places?london)
+[London](london)
 
-[Montgomery](places?montgomery)
+[Montgomery](montgomery)
 
-[Nottingham](places?nottingham)
+[Nottingham](nottingham)
 
-[Offa's Dyke](places?offasdyke)
+[Offa's Dyke](offasdyke)
 
-[Sherwood Forrest](places?sherwood)
+[Sherwood Forrest](sherwood)
 
-[Sutton Hoo](places?suttonhoo)
+[Sutton Hoo](suttonhoo)
 
-[West Stow](places?weststow)
+[West Stow](weststow)

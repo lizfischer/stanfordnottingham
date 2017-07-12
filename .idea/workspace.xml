@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9d69ab-1214-4405-bffe-f47c585fa3a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/short-desc/nottingham.html" afterPath="$PROJECT_DIR$/short-desc/nottingham.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/content/list/index.md" afterPath="$PROJECT_DIR$/places/content/list/index.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="london.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="london.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/short-desc/london.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
@@ -69,7 +69,7 @@
       <file leaf-file-name="base.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="-423">
               <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
               <folding />
             </state>
@@ -102,25 +102,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/places/content/sherwood/index.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="37" lean-forward="false" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="noSidebar.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="83" column="70" lean-forward="true" selection-start-line="83" selection-start-column="70" selection-end-line="83" selection-end-column="70" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/places/content/list/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="425">
+                <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -189,7 +189,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/places/content/extras/broken-structures.md" />
         <option value="$PROJECT_DIR$/places/content/extras/gallery.md" />
         <option value="$PROJECT_DIR$/places/content/icknield/index.md" />
         <option value="$PROJECT_DIR$/places/content/blog/timeless-footsteps.md" />
@@ -240,6 +239,7 @@
         <option value="$PROJECT_DIR$/places/content/cambridge/index.md" />
         <option value="$PROJECT_DIR$/places/content/extras/index.md" />
         <option value="$PROJECT_DIR$/short-desc/nottingham.html" />
+        <option value="$PROJECT_DIR$/places/content/list/index.md" />
       </list>
     </option>
   </component>
@@ -550,6 +550,28 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="list" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanfordnottingham" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stanfordnottingham" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="places" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="content" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="extras" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
@@ -791,12 +813,12 @@
       <workItem from="1499378283705" duration="287000" />
       <workItem from="1499593787077" duration="215000" />
       <workItem from="1499605506926" duration="212000" />
-      <workItem from="1499811391213" duration="9649000" />
+      <workItem from="1499811391213" duration="9755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113530000" />
+    <option name="totallyTimeSpent" value="113636000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -833,17 +855,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/places/content/blog/collective-memory.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="350">
-            <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/short-desc/breedon-saltst.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1290,22 +1301,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="83" column="70" lean-forward="true" selection-start-line="83" selection-start-column="70" selection-end-line="83" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1333,6 +1328,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/short-desc/london.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/short-desc/nottingham.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -1341,11 +1344,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/short-desc/london.html">
+    <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="-423">
+          <caret line="43" column="54" lean-forward="true" selection-start-line="43" selection-start-column="54" selection-end-line="43" selection-end-column="54" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="83" column="70" lean-forward="true" selection-start-line="83" selection-start-column="70" selection-end-line="83" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/places/content/list/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="425">
+            <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
