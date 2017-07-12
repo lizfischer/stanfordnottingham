@@ -37,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/places/themes/default/extras.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="82" />
+              <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -712,12 +712,12 @@
       <workItem from="1499378283705" duration="287000" />
       <workItem from="1499593787077" duration="215000" />
       <workItem from="1499605506926" duration="212000" />
-      <workItem from="1499811391213" duration="17393000" />
+      <workItem from="1499811391213" duration="17687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121274000" />
+    <option name="totallyTimeSpent" value="121568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1270,7 +1270,7 @@
     <entry file="file://$PROJECT_DIR$/places/themes/default/extras.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="27" column="82" lean-forward="false" selection-start-line="27" selection-start-column="77" selection-end-line="27" selection-end-column="82" />
+          <caret line="27" column="97" lean-forward="false" selection-start-line="27" selection-start-column="97" selection-end-line="27" selection-end-column="97" />
           <folding />
         </state>
       </provider>
