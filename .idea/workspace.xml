@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d9d69ab-1214-4405-bffe-f47c585fa3a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/noSidebar.twig" afterPath="$PROJECT_DIR$/places/themes/default/noSidebar.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/places/themes/default/base.twig" afterPath="$PROJECT_DIR$/places/themes/default/base.twig" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -66,21 +66,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="base.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
-              <caret line="79" column="29" lean-forward="false" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+              <caret line="79" column="39" lean-forward="false" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="noSidebar.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="noSidebar.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="80" column="39" lean-forward="false" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+              <caret line="80" column="57" lean-forward="true" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -221,8 +221,8 @@
         <option value="$PROJECT_DIR$/places/themes/default/extras.twig" />
         <option value="$PROJECT_DIR$/places/themes/default/gallery.twig" />
         <option value="$PROJECT_DIR$/places/themes/default/index.twig" />
-        <option value="$PROJECT_DIR$/places/themes/default/base.twig" />
         <option value="$PROJECT_DIR$/places/themes/default/noSidebar.twig" />
+        <option value="$PROJECT_DIR$/places/themes/default/base.twig" />
       </list>
     </option>
   </component>
@@ -734,12 +734,12 @@
       <workItem from="1499378283705" duration="287000" />
       <workItem from="1499593787077" duration="215000" />
       <workItem from="1499605506926" duration="212000" />
-      <workItem from="1499811391213" duration="8988000" />
+      <workItem from="1499811391213" duration="9061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112869000" />
+    <option name="totallyTimeSpent" value="112942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1279,18 +1279,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
+    <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="79" column="29" lean-forward="false" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        <state relative-caret-position="391">
+          <caret line="80" column="57" lean-forward="true" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/places/themes/default/noSidebar.twig">
+    <entry file="file://$PROJECT_DIR$/places/themes/default/base.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="80" column="39" lean-forward="false" selection-start-line="80" selection-start-column="39" selection-end-line="80" selection-end-column="39" />
+        <state relative-caret-position="374">
+          <caret line="79" column="39" lean-forward="false" selection-start-line="79" selection-start-column="39" selection-end-line="79" selection-end-column="39" />
           <folding />
         </state>
       </provider>
