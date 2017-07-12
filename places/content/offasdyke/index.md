@@ -6,6 +6,8 @@ Filters: offasdyke
 Template: index
 Place: offasdyke
 img: img/offasdyke.jpg
+video_cap: "<i>For footage from this site, see <a href='places?montgomery'>Montgomery</a></i>"
+
 ---
 
 On our seminar, we traveled through the landscape of the Welsh-English border walking five miles of the length of Offa’s Dyke near Montgomery, Wales. We began at the top of a hill and were surprised to find the dyke rather mixed with the landscape and not in its own right a very obvious feature. However, when one considers how the medieval Welsh would have approached the monument one can imagine that the Dyke was quite imposing. Considering that the earthwork has stood the test of time and retained its impressive stature in many parts, it was a fascinating experience to weave through the countryside and imagine what the impact of such a border might have been a thousand years ago. 

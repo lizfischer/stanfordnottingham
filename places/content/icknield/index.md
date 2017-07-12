@@ -6,6 +6,7 @@ Filters: icknield
 Template: index
 Place: icknield
 img: img/icknield-head.jpg
+video_cap: "<i>For footage from this site, see <a href='places?cambridge'>Cambridge</a></i>"
 ---
 
 The Icknield Way is an ancient highway that spans southeastern England from Norfolk to the Dorset Coast. Scholars disagree about the point and purpose of this routeway: some believe it to be prehistoric, at one point connecting to the continent across the English Channel; while others believe it to be more recently pre-Roman. The *Icenhylte* was first mentioned in a 903 C.E. charter, and in the 1130s it was named as one of four ancient highways. Today, the Icknield Way welcomes travelers as a modern long-distance footpath, with a recommended hike schedule of eight days. 

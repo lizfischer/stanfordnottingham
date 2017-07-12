@@ -6,6 +6,7 @@ Filters: ely-peterborough
 Template: index
 Place: ely-peterborough
 img: img/ely.jpg
+video_cap: "<i>For footage from this site, see <a href='places?cambridge'>Cambridge</a></i>"
 ---
 
 ###Ely

@@ -5,6 +5,8 @@ Filters: brixworth
 Template: index
 Place: brixworth
 img: img/brixworth.jpg
+video_cap: "<i>For footage from this site, see <a href='places?cambridge'>Cambridge</a></i>"
+
 ---
 
 At first glance Brixworth seems like an unremarkable English village. Located 
